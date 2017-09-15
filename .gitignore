@@ -1,0 +1,10 @@
+/checkpoint
+/target
+/logs
+/*.cache-main
+/.classpath
+/.project
+/bin
+/.cache-main
+/.cache-tests
+/.settings
